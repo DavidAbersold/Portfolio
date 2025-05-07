@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>http://localhost/portfolio/mediawiki-1.43.1/index.php?title=Special:NewPages&amp;feed=atom&amp;hideredirs=1&amp;limit=50&amp;offset=&amp;namespace=0&amp;username=&amp;tagfilter=&amp;size-mode=max&amp;size=0</id>
+	<title>David G Abersold - New pages [en]</title>
+	<link rel="self" type="application/atom+xml" href="http://localhost/portfolio/mediawiki-1.43.1/index.php?title=Special:NewPages&amp;feed=atom&amp;hideredirs=1&amp;limit=50&amp;offset=&amp;namespace=0&amp;username=&amp;tagfilter=&amp;size-mode=max&amp;size=0"/>
+	<link rel="alternate" type="text/html" href="http://localhost/portfolio/mediawiki-1.43.1/index.php/Special:NewPages"/>
+	<updated>2025-05-07T18:30:45Z</updated>
+	<subtitle>From David G Abersold</subtitle>
+	<generator>MediaWiki 1.43.1</generator>
+	<entry>
+		<id>http://localhost/portfolio/mediawiki-1.43.1/index.php/Favorite_books</id>
+		<title>Favorite books</title>
+		<link rel="alternate" type="text/html" href="http://localhost/portfolio/mediawiki-1.43.1/index.php/Favorite_books"/>
+		<updated>2025-05-02T16:41:03Z</updated>
+
+		<summary type="html">&lt;p&gt;David Abersold: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;Books, fictional and nonfictional, have affected me deeply. I will describe what makes these books so important to me.&lt;br /&gt;
+&lt;br /&gt;
+== The Monkey Wrench Gang ==&lt;br /&gt;
+Often described as more of a written comic book than a novel, [[wikipedia:The_Monkey_Wrench_Gang|Edward Abbey&amp;#039;s most popular novel]] is the story of four environmentalists resolved to tear apart the colonialist systems that seek to conquer their home: the western United States. There&amp;#039;s plenty of drama involved but what i value about it, and what has cemented it as a classic is Abbey&amp;#039;s obvious love for the Earth that his characters stand upon. The quote I included is one of many flowery descriptions of landscape and a character&amp;#039;s peace within it, something I value myself.&lt;br /&gt;
+&lt;br /&gt;
+== Disco Elysium ==&lt;br /&gt;
+This one is not a book, but its got more words than most any novel. It is a [[wikipedia:Disco_Elysium|critically acclaimed video-game]] and murder mystery story. It is a also gripping political drama about a world remarkably different that ours, but similar in ways that make it easy to empathize. This world is divided into Isolas, like continents but separated by &amp;quot;The Pale,&amp;quot; a supernatural ocean-like empty space that is slowly consuming the world. The isolation that is consuming the continents is also represented in the community that is stricken by a high-profile murder, and as our deuteragonists discover and eliminate leads, they find that loneliness is at the heart of the scourge that is tearing apart their country. A loneliness that was invented by the greed of powerful corporations and institutions. If written works appeal to you more, the lead writer [[wikipedia:Robert_Kurvitz|Robert Kurvitz]] also wrote &amp;#039;&amp;#039;A Sacred and Terrible Air,&amp;#039;&amp;#039; for which Disco Elysium is based.&lt;/div&gt;</summary>
+		<author><name>David Abersold</name></author>
+	</entry>
+</feed>
